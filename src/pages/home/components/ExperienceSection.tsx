@@ -6,22 +6,22 @@ const ExperienceSection: React.FC = () => {
 
   const experiences = [
     {
-      company: "VoiceBotics AI",
-      position: "Web Developer Intern",
-      duration: "Current",
+      company: "Automate365",
+      position: "Web Development Intern",
+      duration: "May 2025 - Nov 2025",
       logo: "https://media.licdn.com/dms/image/v2/D4E0BAQE1Z1Nn7-_ALQ/company-logo_100_100/company-logo_100_100/0/1719256380187?e=2147483647&v=beta&t=9F4Q4ceXa6_0kAarCCaBguftnAkwKELJ363Ymu_ws_Y",
       description: "Working on cutting-edge AI voice technologies and conversational AI systems.",
-      skills: ["AI/ML", "Voice Technology", "Python", "React"],
-      details: "As a Web Developer Intern at VoiceBotics AI, I am working on developing and maintaining web applications that integrate with cutting-edge AI voice technologies. My responsibilities include building responsive user interfaces, implementing conversational AI features, and collaborating with the AI team to create seamless user experiences. I work with modern web technologies including React, Python, and various AI/ML frameworks to deliver high-quality solutions for voice-enabled applications."
+      skills: ["AI/ML", "Voice Technology", "Python", "React","AWS","Node"],
+      details: "At Automate365, I built complete chatbot platforms from scratch that businesses actually deployed to automate their customer service. I worked across the entire stack, from React frontends to Node.js backends to AWS infrastructure, creating systems that served thousands of users and cut response times by 60%. I integrated critical services like Stripe for payments and Twilio for messaging, so these weren't just demos but production applications handling real transactions. \n What drove me was the same thing that pushed me to build that QA automation tool at Synchronoss: I love creating systems that eliminate inefficiency at scale. The chatbot platform let me work at the intersection of AI and automation, building tools that fundamentally transform how businesses operate rather than just supporting existing workflows. Moving from Android development to full-stack work was intentional. I wanted to broaden my impact and touch every layer of the application instead of being confined to one piece. Building something end-to-end and seeing it actually solve problems for thousands of users, that's what gets me energized."
     },
     {
       company: "Synchronoss Technologies",
-      position: "Software Engineer",
-      duration: "2019 - 2024",
+      position: "Software Engineer - Android",
+      duration: "Aug 2019 - Jan 2024",
       logo: "https://media.licdn.com/dms/image/v2/C560BAQGUTkmayJaP7w/company-logo_100_100/company-logo_100_100/0/1631332579309?e=2147483647&v=beta&t=wOVzbAoNe0qceWH3Ntb8v6iNXMeMBru08Jmr47iE0xQ",
       description: "Developed enterprise-level cloud solutions and led multiple innovation projects.",
-      skills: ["Java", "Cloud Computing", "REST APIs", "Microservices"],
-      details: "During my 5-year tenure at Synchronoss Technologies, I worked as a Software Engineer focusing on enterprise-level cloud solutions. I was responsible for developing and maintaining large-scale applications, implementing REST APIs, and working with microservices architecture. I led multiple innovation projects, collaborated with cross-functional teams, and contributed to reducing data processing time from weeks to days through automation tools. My work involved handling massive datasets (2TB+) and ensuring system reliability and performance in enterprise environments."
+      skills: ["Java", "Kotlin", "REST APIs", "Jetpack Compose","MVVM","Coroutines"],
+      details: "At Synchronoss, I built production Android applications for AT&T and Verizon that supported over 10,000 concurrent users with 99.98% uptime. These weren't small projects; millions of customers depended on these apps daily to manage their telecom services, so reliability wasn't optional.\nMy standout achievement was creating an automation tool that collapsed our QA workflow from 2-3 weeks of manual testing into 48 hours. I watched our team spend weeks on repetitive testing and knew there had to be a better way. Building that tool didn't just save time; it fundamentally changed how we shipped software and became critical infrastructure for the entire team. \nWhat drove me was working at the intersection of scale and impact. I was writing code that had to perform flawlessly under enterprise-grade load while constantly searching for leverage points where I could multiply everyone's effectiveness. That QA automation came from genuine frustration with process inefficiency, not from being asked to optimize something. I'm energized by both building reliable systems and spotting opportunities to transform how work gets done. The recognition through SyncXcellence Awards and being an Innovation Jam finalist validated that I wasn't just completing tickets but actively making our engineering operations better."
     }
   ];
 
@@ -29,7 +29,7 @@ const ExperienceSection: React.FC = () => {
     {
       institution: "Northeastern University",
       degree: "Master of Science in Computer Engineering",
-      duration: "2024 - 2026",
+      duration: "Jan 2024 - Apr2026",
       logo: "https://media.licdn.com/dms/image/v2/C4D0BAQGwTPCvlTQlvw/company-logo_100_100/company-logo_100_100/0/1630531267482/northeastern_university_logo?e=2147483647&v=beta&t=2vuZ3jVY0yz7yz_nx1j79eNQLi8AK0XBsO4Jvdsz1bc",
       description: "Pursuing advanced studies in Computer Engineering with focus on AI and Machine Learning."
     },
