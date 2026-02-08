@@ -39,8 +39,8 @@ const HeroSection: React.FC = () => {
               Software Engineer & AI Enthusiast
             </h2>
             <p className="text-xl text-gray-200 mb-8 leading-relaxed">
-              5+ years of cross-domain experience in web, mobile, and AI technologies. 
-              Currently at VoiceBotics AI, pursuing Master's in Computer Science at Northeastern University.
+              5+ years of cross-domain experience building production systems across mobile, full-stack, and AI platforms. 
+              Pursuing Master's in Computer Software Engineering at Northeastern University with 4.0 GPA, graduating May 2026.
             </p>
 
             {/* Outstanding Student Award Highlight */}
